@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677926399926",
+    "project_id": "phrasal-bonus-367919",
+    "storage_bucket": "phrasal-bonus-367919.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677926399926:android:28791c8b778f789d195b17",
+        "android_client_info": {
+          "package_name": "com.attendtrack.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBybqRe-Dg71STJqCzdS8o-2HZkHUIjDvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
